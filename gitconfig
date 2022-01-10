@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = valentine.bodart@gmail.com
+	name = Valentine Bodart
